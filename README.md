@@ -9,3 +9,9 @@ npm run dev
 
 npm run build
 ```
+
+## 效果
+
+![alt preview](./docs/h5.jpg)
+
+![alt preview](./docs/ios.jpg)
